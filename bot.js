@@ -72,6 +72,21 @@ var handleArray = [
     "@jayglazer",
     "@tyrese",
     "@ludacris",
+    "@rDubThree",
+    "@jc1053",
+    "@gavindawson",
+    "@fishsports",
+    "@sybil1037",
+    "@inthemageors",
+    "@tcuwhitetrash",
+    "@Spag52",
+    "@World_Wide_Wob",
+    "@BunBTrillOG",
+    "@timbrando",
+    "@jimrome",
+    "@dwayneWade",
+    "@jimgaffigan",
+    "@ryanburr",
     "@redrock_bball"
 ]
 
