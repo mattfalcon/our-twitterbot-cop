@@ -12,20 +12,33 @@ var Bot = new TwitterBot ({
 
 //instantiating an array with a number of phrases
 var phraseArray = [
-                    "Tillerson said #trump is a moron",
-                    "#startrek discovery",
-                    "Lebron said #trump is a bum",
-                    "rand paul called #trump gollum",
-                    "@adamsandler 's best movie was bulletproof",
-                    "delete ur account",
-                    "#covfefe and #fakenews",
+                    "You Eat Pieces of S-T for Breakfast?",
+                    "Oh Really Fool?",
+                    "I Don't Want to go to Jail - I'm fragile",
+                    "Now That's What I call High Quality H20!",
+                    "Scuba Steve",
+                    "You're going to die, clown!",
+                    "You're My Closest Friend, And I don't even Like you",
                     "@joshinnesshow eats poo",
                     "Is @JLin7 the next Jordan? #NBA #Nets",
                     "@mikemeltser has HILARIOUS tweets",
                     "did you see #SNL, did it make you LOL?",
                     "#dogpants go on 4legs",
                     "LOL ROFLMAO",
-                    "#thedress is blue and black"
+                    "You ain't cool unless you pee your pants",
+                    "Why don't you just go home, are you too good for your home?",
+                    "I don't know how to fight, I'm a comedian!",
+                    "Chlorophyll? More Like BORophyll!!",
+                    "the cops zapped him with a taser until he went bald!",
+                    "Donkey Kong Sucks!",
+                    "I gotta send him back to the South Pole",
+                    "Suntan lotion is good for me",
+                    "Golf requires goofy pants and a fat ass",
+                    "Alcohol equals puke equals smelly equals nobody likes you",
+                    "Alligators are ornery 'cause of their Medula Oblongata",
+                    "Popeye's Chicken is fkn awesome!",
+                    "what you lookin' at, swan?",
+                    "My mama says alligators are ornery cause they got all them teeth and no toothbrush"
 ];
 
 //function to choose random array 
