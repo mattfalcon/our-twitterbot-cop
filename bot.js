@@ -10,6 +10,41 @@ var Bot = new TwitterBot ({
     access_token_secret: process.env.BOT_ACCESS_TOKEN_SECRET
 });
 
+//handle array
+var handleArray = [
+    "@adamsandler",
+    "@davidspade",
+    "@joshinnesshow",
+    "@DonaldJTrumpJr",
+    "@claytravis",
+    "@mikemeltser",
+    "@lopezonsports",
+    "@rjchoppy",
+    "@1053SS",
+    "@SportsMT",
+    "@LanceZierlein",
+    "@JimMudd",
+    "@STOP_PRE",
+    "@BenRogers",
+    "@danrafaelespn",
+    "@SandlerJ",
+    "@TommySledge",
+    "@justinbieber",
+    "@jeremybieber",
+    "@jonjones",
+    "@gallantsays",
+    "@shawnbijani",
+    "@colincowherd",
+    "@bstrawradio",
+    "@carmeloanthony",
+    "@dmorey",
+    "@jayglazer",
+    "@tyrese",
+    "@ludacris",
+    "@redrock_bball"
+]
+
+
 //instantiating an array with a number of phrases
 var phraseArray = [
                     "You Eat Pieces of S-T for Breakfast?",
@@ -51,7 +86,7 @@ function chooseRandom(myArray) {
 }
 
 //saving array as variable
-var phrase = chooseRandom(phraseArray) + ", " + 
+var phrase = chooseRandom(handleArray) + ", " + 
 chooseRandom(phraseArray);
 
 //node-twitterbot's bot.tweet function
