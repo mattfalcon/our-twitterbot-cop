@@ -18,7 +18,7 @@ var phraseArray = [
                     "Here are some aspirin, Mr. Deeds. they make your head seem smaller",
                     "It's hard to soar with the eagles, when you're surrounded by turkeys",
                     "Now That's What I call High Quality H20!",
-                    "The hideosness of that foot will haunt my dreams forever",
+                    "The hideousness of that foot will haunt my dreams forever",
                     "Scuba Steve",
                     "You're going to die, clown!",
                     "You're My Closest Friend, And I don't even Like you",
