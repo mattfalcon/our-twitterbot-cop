@@ -16,11 +16,15 @@ var phraseArray = [
                     "#startrek discovery",
                     "Lebron said #trump is a bum",
                     "rand paul called #trump gollum",
-                    "Adam Sandler, David Spade, Chris Farley",
+                    "@adamsandler 's best movie was bulletproof",
                     "delete ur account",
-                    "it me",
-                    "same",
+                    "#covfefe and #fakenews",
+                    "@joshinnesshow eats poo",
+                    "Is @JLin7 the next Jordan? #NBA #Nets",
+                    "@mikemeltser has HILARIOUS tweets",
+                    "did you see #SNL, did it make you LOL?",
                     "#dogpants go on 4legs",
+                    "LOL ROFLMAO",
                     "#thedress is blue and black"
 ];
 
