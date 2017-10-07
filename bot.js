@@ -4,10 +4,10 @@ var TwitterBot = require('node-twitterbot').TwitterBot;
 
 //use heroku config variables
 var Bot = new TwitterBot ({
-    consumer_key: process.env.BOT_CONSUMER_KEY,
-    consumer_secret: process.env.BOT_CONSUMER_SECRET,
-    access_token: process.env.BOT_ACCESS_TOKEN,
-    access_token_secret: process.env.BOT_ACCESS_TOKEN_SECRET
+    consumer_key: 'gaqlTnIm201O1sKuycVoeTYSD',
+    consumer_secret: 'uFbS1S5H1l1YbEpK6sT3CUQ2moGw0E2Aoh9pMYf0UOMW4UbhgE',
+    access_token: '914539088090451969-yrW1Av5vO0wdAt2q9yopG067ExL3AJe',
+    access_token_secret: 'lX4s1cxEu2V21SaLDBS08n6ejvw6G7Ng4ykh3SMLjFg1c'
 });
 
 //handle array
