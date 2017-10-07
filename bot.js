@@ -17,7 +17,6 @@ var handleArray = [
     "@joshinnesshow",
     "@DonaldJTrumpJr",
     "@claytravis",
-    "@mikemeltser",
     "@lopezonsports",
     "@rjchoppy",
     "@1053SS",
